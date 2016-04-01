@@ -1,6 +1,6 @@
 {
   "name": "4chtung.GitHub.io",
   "tagline": "4chtung!",
-  "body": "### Welcome to 4chtung\r\nHere is all the random programs I've made.\r\n\r\n## [pwgen](https://github.com/4chtung/pwgen)\r\nAutomated Password Generator\r\nUsed to automatically generate passwords based on a number of inputs.\r\n\r\nUsage:\r\npwgen -i Input Text -s Salt\r\n",
+  "body": "### Welcome to 4chtung\r\nHere are all the random programs I've made.\r\n\r\n## [pwgen](https://github.com/4chtung/pwgen)\r\nAutomated Password Generator\r\nUsed to automatically generate passwords based on a number of inputs.\r\n\r\nUsage:\r\npwgen -i Input Text -s Salt\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
