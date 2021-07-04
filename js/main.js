@@ -68,8 +68,7 @@ var files = (function () {
     };
     Singleton.defaultOptions = {
         "about.txt": "Welcome!\nHere is a repository of walkthroughs for HackTheBox and TryHackMe as well as a portfolio for anything else exciting!\nThanks for dropping by!\n\nTom Rusbridger",
-        "getting_started.txt": "First, go to js/main.js and replace all the text on both singleton vars.\n- configs: All the text used on the website.\n- files: All the fake files used on the website. These files are also used to be listed on the sidenav.\nAlso please notice if a file content is a raw URL, when clicked/concatenated it will be opened on a new tab.\nDon't forget also to:\n- Change the page title on the index.html file\n- Change the website color on the css/main.css\n- Change the images located at the img folder. The suggested sizes are 150x150 for the avatar and 32x32/16x16 for the favicon.",
-        "contact.txt": "4chtung@protonmail.com",
+        "contact.txt": "If you would like to reach out, my E-Mail is below:\n4chtung@protonmail.com",
         "hack_the_box.mnt": "https://4chtung.github.io/hackthebox/index.html",
         "tryhackme.mnt": "https://4chtung.github.io/tryhackme/index.html"
     };
