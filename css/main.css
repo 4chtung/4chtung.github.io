@@ -149,7 +149,7 @@ body {
 /* NEW CODE BELOW. WILL PROBABLY BREAK SHIT */
 
 /* flicker animation taken from http://goonhub.com/secret */
-/*
+
 .flicker {
     position: fixed;
     top: 0;
@@ -226,7 +226,7 @@ body {
   100% {
     opacity: 0.37221;
   }
-} */
+}
 /* glow */
 .terminal {
     text-shadow: 0 0.2rem 1rem #0c7b46;
